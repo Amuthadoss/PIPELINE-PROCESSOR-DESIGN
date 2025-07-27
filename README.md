@@ -1,1 +1,8 @@
-# PIPELINE-PROCESSOR-DESIGN
+COMPANY : CODTECH IT SOLUTIONS
+NAME : AMUTHA P O
+INTERN ID : CT04DH875
+DOMAIN : MACHINE LEARNING
+DURATION : 4 WEEKS
+MENTOR : NEELA SANTHOSH KUMAR
+TASK : 3.PIPELINE PROCESSOR DESIGN
+This project involves the design and simulation of a basic 4-stage pipelined processor using Verilog. The processor supports a minimal instruction set, including ADD, SUB, and LOAD operations. It is structured into four distinct pipeline stages: Instruction Fetch (IF), Instruction Decode (ID), Execute (EX), and Write Back (WB). The purpose of pipelining is to improve instruction throughput by overlapping the execution of multiple instructions. The Verilog implementation includes modular design for each stage, along with a testbench that demonstrates how instructions progress through the pipeline. Simulation results confirm the functionality and timing behavior of each stage. This project provides practical insights into pipelined processor architecture and enhances understanding of parallelism in digital design.
